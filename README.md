@@ -38,7 +38,7 @@ A modern, lightweight code editor built with Next.js and TypeScript. Write, prev
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js 13](https://nextjs.org/)
+- **Framework**: [Next.js 15](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
