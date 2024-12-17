@@ -1,6 +1,6 @@
 # Code Editor By dcoso.dev 🚀
 
-[![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Monaco Editor](https://img.shields.io/badge/Monaco-0.45-027ACC?logo=visual-studio-code)](https://microsoft.github.io/monaco-editor/)
@@ -38,7 +38,7 @@ A modern, lightweight code editor built with Next.js and TypeScript. Write, prev
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js 13](https://nextjs.org/)
+- **Framework**: [Next.js 15](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
